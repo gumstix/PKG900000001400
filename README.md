@@ -22,8 +22,11 @@ __Links:__
 * [AutoDoc Datasheet][autodoc]
 * [Specifications][spec]
 * [Store Page][store]
+* [Schematics and Layout][hardware]
 
 [thumbnail]: https://d3iwea566ns1n1.cloudfront.net/images/product/1ae94bd9fed173c4b6867992084763ec15bd388f.png
 [autodoc]: PKG900000001400_AutoDoc.pdf
 [spec]: PKG900000001400_SpecSheet.pdf
 [store]: https://store.gumstix.com/cm4-development-board/
+[hardware]: hardware/hardware.md
+[firmware]: firmware/firmware.md
